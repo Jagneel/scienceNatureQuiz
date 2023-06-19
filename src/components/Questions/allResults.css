@@ -1,0 +1,12 @@
+.result-question {
+    width: 60%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.incorrect {
+    color: #ff9e9e;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 50px;
+}

@@ -118,8 +118,6 @@ function App() {
       fetchData()
     },[])
 
-    console.log(questions)
-
     //Set State of startup screen
 
     const [quizDisplay, setQuizDisplay] = useState(false)
